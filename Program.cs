@@ -100,7 +100,7 @@ namespace CSVkuntoon
                 } 
             }
 
-            var indexes = new[] { 1, 2, 3, 4 };
+            var indexes = new[] { 0, 1, 2, 3, 4 };
 
             if (File.Exists(path))
             {
